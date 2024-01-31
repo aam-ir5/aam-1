@@ -1,2 +1,2 @@
-# aam-1
+# Aam-1
 This is my first repository.
